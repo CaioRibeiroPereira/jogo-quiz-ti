@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "srv848.hstgr.io",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "u474985925_jogoquiz",
+            "database": "u474985925_jogoquiz",
+            "username": "u474985925_caioadmin",
+            "password": "JogoQuiz123"
+        }
+    ]
+}
